@@ -2,7 +2,7 @@
   font-size: 11px;
   background-color: dimgray;
   color: white;
-  text-align: left;
+
 }
 * {
   font-family: helvetica;
@@ -29,4 +29,7 @@ h3 {
 }
 h2 {
   font-size: 32px;
+}
+#left {
+  text-align: left;
 }
